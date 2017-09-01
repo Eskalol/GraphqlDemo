@@ -5,6 +5,7 @@
 ```bash
 git clone https://github.com/Eskalol/GraphqlDemo.git
 npm install
+redis-server
 npm run dev
 ```
 
